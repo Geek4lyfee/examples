@@ -1,0 +1,7 @@
+print("Hello World!")
+#print("Hello Again")
+print("I Like Typing This.")
+print("Well I do Not LOL.")
+print("printing.")
+print("okay, I am done.")
+print("finaly done.")
