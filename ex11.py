@@ -1,0 +1,10 @@
+print("How old are you?", end=' ')
+age=input()
+print("How tall are you?",end=' ')
+height=input()
+print("How much do you weigh", end=' ')
+weight=input()
+print("How cool is NF",end=' ')
+NFsCoolness=input()
+
+print(f"So, you're {age} old, {height} tall, {weight} heavy, and NF is {NFsCoolness}.")
